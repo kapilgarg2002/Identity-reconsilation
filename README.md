@@ -20,7 +20,7 @@ This project uses a simple **Disjoint Set Union (DSU)** algorithm to achieve the
 
 
 
-### Setup Instructions
+## Setup Instructions
 
 1. **Update Database Configuration**
    Modify the database settings in `database/config/config.json` to match your local database credentials.
