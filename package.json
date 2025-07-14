@@ -1,0 +1,24 @@
+{
+  "name": "identity-reconsilation",
+  "version": "1.0.0",
+  "description": "Bitespeed backend task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapilgarg2002/Identity-reconsilation.git"
+  },
+  "author": "Kapil Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapilgarg2002/Identity-reconsilation/issues"
+  },
+  "homepage": "https://github.com/kapilgarg2002/Identity-reconsilation#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.2",
+    "sequelize": "^6.37.7"
+  }
+}
